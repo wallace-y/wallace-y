@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Cam's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallace-y)](https://github.com/wallace-y/github-readme-stats)
+[![Cam's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallace-y&hide_rank=true)](https://github.com/wallace-y/github-readme-stats)
 
 <!--
 **wallace-y/wallace-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
