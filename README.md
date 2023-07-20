@@ -1,10 +1,15 @@
-### Hi there 👋, I'm Cam
+![header](https://capsule-render.vercel.app/api?type=slice&hexcode=_9675F6&text=Hi%20there%20👋%20I'm%20Cam)
 
 - 🔭 I’m currently working on a digital coupon book Android mobile application using React Native and Firebase
 - 🌱 I’m currently learning C via Harvard's CS50x course, focusing on Algorithms, Memory and Data Structures
 - ⚡ Fun fact: Being a chartered accountant I can also do your taxes!
 
-[![Cam's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallace-y&hide_rank=true)](https://github.com/wallace-y/github-readme-stats)
+![Cam's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallace-y&hide_rank=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallace-y)
+
+
 
 <h2> 🚀 &nbsp;Tools I Have Used and Learned</h2>
 <p align="left">
