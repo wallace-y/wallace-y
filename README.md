@@ -1,12 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&hexcode=_9675F6&text=Hi%20there%20👋%20I'm%20Cam)
 
-- 🔥 I'm currently developing a certificate tracking application which allows employers and employees to monitor their compliance with key documents on an employee by employee basis
-- 🔭 I’m currently working on as a Techical Product Manager for an audit-tech company
-- 🌱 I’m currently finishing via Harvard's CS50x course. Focusing on Algorithms, Memory and Data Structures
-
-![Cam's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallace-y&hide_rank=true)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallace-y)
 
 
