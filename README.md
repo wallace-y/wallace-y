@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&hexcode=_9675F6&text=Hi%20there%20👋%20I'm%20Cam)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallace-y)
-
+# Hi there, I'm Cam 👋
+I'm a technical product manager and chartered accountant.
+I like building tools that help me with my workflows and playing around with building software.
 
 
 <h2> 🚀 &nbsp;Tools I Have Used and Learned</h2>
