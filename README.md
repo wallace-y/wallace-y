@@ -3,7 +3,7 @@ I'm a technical product manager and chartered accountant.
 I like building tools that help me with my workflows and playing around with building software.
 
 
-<h2> 🚀 &nbsp;Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Tools I Have Used</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
